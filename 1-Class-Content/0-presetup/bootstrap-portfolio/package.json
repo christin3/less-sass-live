@@ -9,7 +9,7 @@
   "author": "Latisha McNeel",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^4.0.0"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
